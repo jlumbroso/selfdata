@@ -1,16 +1,13 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About this site
+subtitle: Learning about technology through your personal data
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This site was created by Jérémie Lumbroso.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+He fell in love with programming, computers and data when he was 2 years old, learned how to read/write for the specific purpose of programming at age 6, and has never looked back—and he cares deeply about any obstacle in the path of newcomers to programming, which he thinks should be accessible to all.
 
-What else do you need?
+This site seeks to introduce newcomers not just to programming but to how beautiful and significant it can be to have data about yourself, when you are in control. This is a way to acquire technology literacy and to learn about the world around you.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![Example image](/img/child-computer-imaginary-world-1.webp)
