@@ -1,4 +1,4 @@
-baseurl = "https://jlumbroso.github.io/selfdata/"
+baseurl = "https://selfdata.princeton.edu"
 canonifyurls = true
 DefaultContentLanguage = "en"
 title = "Celebrating Personal Data"
